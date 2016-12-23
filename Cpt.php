@@ -1,13 +1,4 @@
 <?php
-/**
- * This class is foundation of registration a custom post type
- * 
- * @use        register_post_type()
- * @link       https://codex.wordpress.org/Function_Reference/register_post_type
- * @since      1.0.0
- * @package    va
- * @subpackage cpter
- */
 
 namespace Vietfreshair\Cpt;
 
