@@ -1,0 +1,20 @@
+{
+    "name": "vietfreshair/cpt",
+    "description": "The Custom post type Package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Leo Nguyen",
+            "email": "duyngha@gmail.com"   
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vietfreshair\\Cpt\\": ""
+        }
+    },
+    "minimum-stability": "dev"
+}
